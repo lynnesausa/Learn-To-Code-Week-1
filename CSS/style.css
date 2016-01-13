@@ -2,7 +2,7 @@
 
 
 body {
-	font-family: 'Coming Soon', cursive;
+	font-family: 'Open Sans Condensed';
 	color: #e5e5e5;
 	font-size: 12px;
 	background:#bfbfbf;
@@ -12,7 +12,7 @@ body {
 
 
 h1, h2 {
-	font-family: 'Coming Soon', cursive;
+	font-family: 'Open Sans Condensed';
 	font-weight: 300;
 	margin:0 0 15px 0;
 }
@@ -37,8 +37,17 @@ p {
 a {
 	color: #3e3e3e;
 }
-
-
+.divleft {
+	width:45%;
+	float: left;
+}
+.divright {
+	width: 45%;
+	float: right;
+}
+.headimg {
+	width: 200px;
+}
 
 .clear {
 	clear: both;
